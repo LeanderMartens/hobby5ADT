@@ -15,6 +15,8 @@ Mijn favoriete hobby is hockey. Ik heb dit zelf nog nooit als hobby gedaan, maar
 5. Schoenen (met een stevig reliëf aan de zool)
 6. Bal of puck (als je thuis wilt oefenen)
 
-## Links met meer informatie.
-
-## test
+## Links met meer informatie + foto's.
+links:  https://nl.wikipedia.org/wiki/Hockey
+        https://www.olympics.com/en/news/field-hockey-rules-how-to-play
+![alt text](image-1.png)
+![alt text](image.png)
