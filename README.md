@@ -19,4 +19,14 @@ Mijn favoriete hobby is hockey. Ik heb dit zelf nog nooit als hobby gedaan, maar
 links:  https://nl.wikipedia.org/wiki/Hockey
         https://www.olympics.com/en/news/field-hockey-rules-how-to-play
 ![alt text](image-1.png)
-![alt text](image.png)
+![alt text](image.png)$
+
+## Benodigdheden
+| voorwerp| prijs |
+| :-----: | :---: |
+|Hockey stick|150|
+|Puck| 8 |
+|balletje| 10|
+|gebitje|15-20|
+|beenbescherming|30|
+
