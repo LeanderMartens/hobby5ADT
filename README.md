@@ -25,7 +25,7 @@ links:  https://nl.wikipedia.org/wiki/Hockey
 ![alt text](image.png)$
 
 ------
-## Benodigdheden
+## Benodigdheden + prijzen
 | voorwerp| prijs |
 | :-----: | :---: |
 |Hockey stick|150|
@@ -38,3 +38,16 @@ links:  https://nl.wikipedia.org/wiki/Hockey
 ## Extra informatie
 - Als je een hockeystick koopt moet je letten op de lengte. Deze meet je af door de stick recht te zetten en mag maximaal tot aan je navel komen.
 - Rond de 17de eeuw had hockey een andere naam genaamd bandy. Ijshockey noemde toen toch hockey on ice.
+
+## Links binnenin het document
+[Inleiding (mijn favoriete hobby)](#mijn-favoriete-hobby)
+
+[Mijn favoriete thema](#wat-zijn-mijn-favoriete-activiteiten-binnen-hockey)
+
+[Hoe begin je en benodigdheden](#hoe-begin-je-met-hockey-als-hobby-en-wat-heb-je-nodig)
+
+[Links met meer informatie + foto's](#links-met-meer-informatie--fotos)
+
+[Benodigdheden + prijzen](#benodigdheden--prijzen)
+
+[extra informatie](#extra-informatie)
